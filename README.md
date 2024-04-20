@@ -2,11 +2,11 @@
 
 python projects streamed on [twitch](https://twitch.tv/guccid0nut/)
 
-## chatGPT idea list`
+## chatGPT idea list
 
 ### Not streamed  yet
 
-- AI-Personalized Greetings: Ext`end the "Hello World" project by using the API to generate personalized greetings based
+- AI-Personalized Greetings: Extend the "Hello World" project by using the API to generate personalized greetings based
   on user interests provided at input.
 - AI-Hint Guess the Number: Incorporate AI to provide contextual hints based on the distance of the guess from the
   target number, possibly using natural language to make the hints more engaging.
