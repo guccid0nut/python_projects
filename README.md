@@ -4,10 +4,12 @@ python projects streamed on [twitch](https://twitch.tv/guccid0nut/)
 
 ## chatGPT idea list
 
+
+### Streamed
+
 - [AI-Personalized Greetings](https://www.twitch.tv/videos/2125259476): Extend the "Hello World" project by using the
   API to generate personalized greetings based on user interests provided at input.
 
-### Streamed
 
 ### Not streamed  yet
 
