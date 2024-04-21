@@ -1,1 +1,1 @@
-<a href="https://www.twitch.tv/videos/2125259476" target="_blank">VOD</a>
+[VOD](https://www.twitch.tv/videos/2125259476)
