@@ -4,19 +4,19 @@ python projects streamed on [twitch](https://twitch.tv/guccid0nut/)
 
 ## chatGPT idea list
 
-
 ### Streamed
 
 - [AI-Personalized Greetings](https://www.twitch.tv/videos/2125259476): Extend the "Hello World" project by using the
   API to generate personalized greetings based on user interests provided at input.
 
-
 ### Not streamed  yet
 
 - AI-Hint Guess the Number: Incorporate AI to provide contextual hints based on the distance of the guess from the
   target number, possibly using natural language to make the hints more engaging.
-- AI-Smart Calculator: Use the API to interpret natural language input for mathematical operations (e.g., "What is
-  twenty percent of two hundred?").
+- AI-Powered Interactive Assistant: Develop a web-based interface using Flask that integrates OpenAI's API to create an
+  interactive assistant . This assistant is capable of understanding and responding to user inputs with a playful,
+  passive-aggressive tone, providing customized responses based on the roles defined. It can be used for various 
+  interactive applications, such as games, educational tools, or customer service scenarios.
 - Mad Libs with AI Story Enhancement: After the user fills in the blanks, use the API to embellish the story further,
   making it more elaborate and entertaining.
 - AI-Enhanced Countdown Timer: Use the API to accept natural language for setting the timer (e.g., "Set a timer for 20
