@@ -5,19 +5,21 @@ python projects streamed on [twitch](https://twitch.tv/guccid0nut/)
 ## chatGPT idea list
 
 ### Streamed
+
 Coming Soon
 
-### Not streamed yet 
-- AI-Personalized Greetings: Extend the "Hello World" project by using the
+### Not streamed yet
+
+- 1-AI-Personalized Greetings: Extend the "Hello World" project by using the
   API to generate personalized greetings based on user interests provided at input.
-- AI-Hint Guess the Number: Incorporate AI to provide contextual hints based on the distance of the guess from the
+- 2-AI-Hint Guess the Number: Incorporate AI to provide contextual hints based on the distance of the guess from the
   target number, possibly using natural language to make the hints more engaging.
-- AI-Powered Interactive Assistant: Develop a web-based interface using Flask that integrates OpenAI's API to create an
-  interactive assistant . This assistant is capable of understanding and responding to user inputs with a playful,
-  passive-aggressive tone, providing customized responses based on the roles defined. It can be used for various 
+- 3-AI-Powered Interactive Assistant: Develop a simple Flask app to create an
+  interactive assistant that is capable of understanding and responding to user inputs with a playful,
+  passive-aggressive tone, providing customized responses based on the roles defined. It can be used for various
   interactive applications, such as games, educational tools, or customer service scenarios.
-- Mad Libs with AI Story Enhancement: After the user fills in the blanks, use the API to embellish the story further,
-  making it more elaborate and entertaining.
+- 4-AI-Enhanced Blog Content Generator: Build a Flask application that uses OpenAI to help users generate blog posts or
+  articles based on a few keywords or a topic sentence.
 - AI-Enhanced Countdown Timer: Use the API to accept natural language for setting the timer (e.g., "Set a timer for 20
   minutes").
 - Todo List with AI Categorization: Utilize AI to automatically categorize tasks based on their descriptions.

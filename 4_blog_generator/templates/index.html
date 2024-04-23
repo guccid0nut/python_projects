@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Blog Post</title>
+</head>
+<body>
+<h1>Create a New Blog Post</h1>
+<form method="post">
+    <input type="text" name="title" placeholder="Enter Post Title" required><br>
+    <textarea name="prompt" placeholder="Enter your prompt for the AI" required></textarea><br>
+
+    <label for="tone">Tone:</label>
+    <select name="tone">
+        <option value="informal">Informal</option>
+        <option value="professional">Professional</option>
+        <option value="humorous">Humorous</option>
+    </select><br>
+
+    <label for="style">Style:</label>
+    <select name="style">
+        <option value="narrative">Narrative</option>
+        <option value="expository">Expository</option>
+        <option value="descriptive">Descriptive</option>
+    </select><br>
+
+    <label for="length">Length:</label>
+    <select name="length">
+        <option value="short">Short Post</option>
+        <option value="medium">Medium Post</option>
+        <option value="long">Long Detailed Article</option>
+    </select><br>
+
+    <button type="submit">Create Post</button>
+</form>
+</body>
+</html>
