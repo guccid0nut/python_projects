@@ -68,6 +68,13 @@ def list_posts():
     return render_template('list_posts.html', posts=posts)
 
 
+@app.route('/clear_data')
+def clear_data():
+    BlogPost.query.delete()
+    db.session.commit()
+    return "Data has been cleared from BlogPost."
+
+
 if __name__ == '__main__':
     with app.app_context():
         create_tables()
